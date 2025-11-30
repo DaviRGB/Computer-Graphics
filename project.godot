@@ -13,7 +13,6 @@ config_version=5
 config/name="GDComputerGraph"
 run/main_scene="uid://b1vgc867e2bhu"
 config/features=PackedStringArray("4.5", "Forward Plus")
-config/icon="res://icon.svg"
 
 [input]
 
